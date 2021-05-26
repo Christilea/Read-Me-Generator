@@ -1,0 +1,26 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Practice making a good README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christilea/ReadMeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christilea/ReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/Christilea/ReadMeGenerator#readme",
+  "dependencies": {
+    "highlight.js": "^10.7.2",
+    "inquirer": "^8.1.0",
+    "markdown-utilities": "^0.1.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
